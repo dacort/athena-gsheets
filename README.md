@@ -1,6 +1,6 @@
 # Athena Google Sheets Example
 
-An example of using the [Unofficial Athena Query Federation Python SDK[(https://github.com/dacort/athena-federation-python-sdk/) to query data from a Google Sheet!
+An example of using the [Unofficial Athena Query Federation Python SDK](https://github.com/dacort/athena-federation-python-sdk/) to query data from a Google Sheet!
 
 ## Overview
 
